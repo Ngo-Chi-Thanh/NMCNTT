@@ -4,8 +4,6 @@
 ### 🎓 Giới thiệu bản thân
 - 🏫 Hiện là **Sinh viên** tại **Trường Đại học Nông Lâm TP.HCM** (HCMUAF).
 - 🚀 Đang trên hành trình học hỏi, tích lũy kiến thức và phát triển bản thân trong lĩnh vực Công nghệ thông tin.
-- 🌱 Tôi luôn tìm kiếm cơ hội để thực hành qua các dự án thực tế và kết nối với những người bạn có cùng đam mê.
-
 ---
 
 ### 💻 Kỹ năng & Công nghệ (Đang học tập)
